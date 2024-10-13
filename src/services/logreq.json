@@ -1,0 +1,12 @@
+{
+  "jsonrpc": "2.0",
+  "method": "eth_getLogs",
+  "params": [
+    {
+      "fromBlock": null,
+      "toBlock": null,
+      "address": null,
+      "topics": [null, null, null, null]
+    }
+  ]
+}
